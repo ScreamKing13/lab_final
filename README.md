@@ -1,7 +1,9 @@
 # lab_final
+<pre>
 Supported keys:
---version <n> | -v<n>   :  Set the version of something to n <br/>
---something   | -S      :  Does something <br/>
---list <val>  | -l<val> :  Lists n elements if given, ALL otherwise <br/>
---everything  | -E      :  Does EVERYTHING <br/>
---help        | -h      :  Shows help <br/>
+--version <n> | -v<n>   :  Set the version of something to n
+--something   | -S      :  Does something
+--list <val>  | -l<val> :  Lists n elements if given, ALL otherwise
+--everything  | -E      :  Does EVERYTHING
+--help        | -h      :  Shows help
+</pre>
