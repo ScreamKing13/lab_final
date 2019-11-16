@@ -50,10 +50,10 @@ set<string> ProcessArgs(int argc, char** argv)
             break;
 
         case 'h': // -h or --help
-			expr = "--num <n>:           Set number of program\n"
-            	   "--beep:              Beep the user\n"
-            	   "--sigma <val>:       Set sigma of program\n"
-            	   "--writeFile <fname>: File to write to\n"
+			expr = "--version <n>:       Set the version of something to n\n"
+            	   "--something:         Does something\n"
+            	   "--list <val>:        Lists n elements if given, ALL otherwise\n"
+            	   "--everything:        Does EVERYTHING\n"
             	   "--help:              Show help\n";
 			break;
         case '?':
