@@ -1,6 +1,5 @@
-# lab_final
+# Application's supported keys:
 <pre>
-Supported keys:
 --version <n> | -v<n>   :  Set the version of something to n
 --something   | -S      :  Does something
 --list <val>  | -l<val> :  Lists n elements if given, ALL otherwise
